@@ -1,0 +1,32 @@
+# Secrets
+.env
+.aivenv/.env
+
+# Local database/runtime files
+.aivenv/data.db
+.aivenv/*.db
+.aivenv/mcp_config.json
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environment directories inside .aivenv
+.aivenv/Lib/
+.aivenv/Scripts/
+.aivenv/etc/
+.aivenv/share/
+.aivenv/pyvenv.cfg
+.aivenv/.lock
+.aivenv/CACHEDIR.TAG
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

@@ -1,0 +1,13 @@
+*
+!.gitignore
+!backend/
+!backend/**
+!frontend/
+!frontend/**
+!requirements.txt
+!mcp_config.example.json
+
+__pycache__/
+*.py[cod]
+backend/**/__pycache__/
+frontend/**/__pycache__/

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "agentic_bi": {
+      "command": "python",
+      "args": ["-m", "backend.mcp_server"],
+      "cwd": "path/to/agentic_bi_groq/.aivenv"
+    }
+  }
+}

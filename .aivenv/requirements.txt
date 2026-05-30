@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+pandas
+groq
+openpyxl
+langchain-core
+langchain-mcp-adapters
+mcp
